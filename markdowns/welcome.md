@@ -15,7 +15,7 @@ N'hésitez pas à lire l'énigme ici : https://irobotechart.com/enigme-avec-des-
 Voici un exemple sous la forme d'une image (elle provient de Wikipédia : https://fr.wikipedia.org/wiki/Fichier:FibonacciRabbit.svg)
 ![Image exemple de la situation avec des lapins](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FibonacciRabbit.svg/620px-FibonacciRabbit.svg.png)
 
-Les informations sur l'auteur sont les suivantes : Ein_Hase_mit_blauem_Ei.svg: MichaelFrey & Sundance Raphael
+Les informations sur l'auteur de l'image sont les suivantes : Ein_Hase_mit_blauem_Ei.svg: MichaelFrey & Sundance Raphael
 
 
 # English Version
