@@ -31,7 +31,7 @@ In order to answer, you can write a program in python. You are free to use all o
 
 Don't hesitate to read the enigma on : https://irobotechart.com/enigme-avec-des-lapins.html
 
-Here an image (available on Wikipédia : https://fr.wikipedia.org/wiki/Fichier:FibonacciRabbit.svg) in order to illustrate the enigma 
+Here an image (available on Wikipedia : https://fr.wikipedia.org/wiki/Fichier:FibonacciRabbit.svg) in order to illustrate the enigma 
 ![Image which illustrates the enigma with the rabbits](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FibonacciRabbit.svg/620px-FibonacciRabbit.svg.png)
 
 The information on the author are the following : Ein_Hase_mit_blauem_Ei.svg: MichaelFrey & Sundance Raphael
