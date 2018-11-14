@@ -9,7 +9,14 @@ Pour répondre, vous pouvez écrire un programme en python. Vous êtes libre d'u
     réponse = 5
     
     print(réponse)
-    N'hésitez pas à lire l'énigme ici : https://irobotechart.com/enigme-avec-des-lapins.html
+
+N'hésitez pas à lire l'énigme ici : https://irobotechart.com/enigme-avec-des-lapins.html
+    
+Voici un exemple sous la forme d'une image ((elle provient de Wikipédia)[https://fr.wikipedia.org/wiki/Fichier:FibonacciRabbit.svg])
+![Image exemple de la situation avec des lapins](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FibonacciRabbit.svg/620px-FibonacciRabbit.svg.png)
+
+Les informations sur l'auteur sont les suivantes : Ein_Hase_mit_blauem_Ei.svg: MichaelFrey & Sundance Raphael
+
 
 # English Version
 Suppose a newly-born pair of rabbits, one male, one female, are put in a field. Rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits. Suppose that our rabbits never die and that the female always produces one new pair (one male, one female) every month from the second month on. 
